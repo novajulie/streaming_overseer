@@ -1,0 +1,4 @@
+product owner, product manager, cpo,
+product owner*, product manager*,
+head of product, director of product,
+продакт, CPO
